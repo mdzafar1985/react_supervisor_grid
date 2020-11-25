@@ -1,0 +1,28 @@
+[
+  {
+    "id":0,
+    "name":"Derek Roberts",
+    "color":"#F65A1C"
+  },
+  {
+    "id":1,
+    "name":"Jonathan Robertson",
+    "color":"#1FBBC4"
+  },
+  {
+    "id":2,
+    "name":"Nichole Smith",
+    "color":"#1077B0"
+  },
+  {
+    "id":3,
+    "name":"Susan Miller",
+    "color":"#684999"
+  },
+  {
+    "id":4,
+    "name":"Unassigned",
+    "color":"#C4C4C4"
+  }
+
+]
